@@ -6,7 +6,7 @@ astunparse = __import__("astunparse")
 __builtins__ = eval("__builtins__")
 
 def execute():
-    print("do")
+    print("done")
 
 def transform(s):
 
